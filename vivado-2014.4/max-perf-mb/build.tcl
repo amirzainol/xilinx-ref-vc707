@@ -89,7 +89,6 @@ current_run -implementation [get_runs impl_1]
 puts "INFO: Project created:vc707"
 
 # Create block design
-# source $origin_dir/src/bd/design_1.tcl
 source $origin_dir/src/bd/design_1_bd.tcl
 
 # Generate the wrapper
